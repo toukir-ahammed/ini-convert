@@ -11,7 +11,7 @@ How to Run ini_to_csv.py script:
 				.
 				-- TraditionBreaker.ini
 2. Run the script using the following command:
-	python ini_to_csv
+	python ini_to_csv.py
 3. Find the output csv file in the following directory:
 	-- output
 		-- tomcat
